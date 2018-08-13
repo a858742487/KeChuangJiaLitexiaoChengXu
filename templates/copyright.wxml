@@ -1,0 +1,3 @@
+<template name="tempCopyright">
+<view>  © 2018 科创家Lite www.科创家.com   </view>
+</template>
